@@ -94,6 +94,8 @@
 
             } 
         */
+            printf("Time of start - %ld\n",seconds1);
+            printf("Time of end - %ld\n",seconds2);
             printf("Time taken for multiplication is - %ld\n",diff);
 
        // }
